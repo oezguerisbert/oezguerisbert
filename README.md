@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on an All-In-One Project Manager (TypeScript, Apollo, NextJS, React, Chakra-UI)
 
-🌱 I’m currently learning React, GraphQL, NextJS, VueJS
+🌱 I’m currently learning Kubernetes, Docker
 
 🤔 I’m looking for help with React, VueJS
 

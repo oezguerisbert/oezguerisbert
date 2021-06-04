@@ -2,6 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=oezguerisbert&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oezguerisbert&theme=dark)
 
 🔭 I’m currently working on an All-In-One Project Manager (TypeScript, Apollo, NextJS, React, Chakra-UI)
 

@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning Kubernetes, Docker
 
-🤔 I’m looking for help with React, VueJS
+🤔 I’m working with PHP, TypeScript, React, VueJS
 
 💬 Ask me about anything
 

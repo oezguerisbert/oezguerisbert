@@ -4,11 +4,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oezguerisbert&theme=dark)
 
-🔭 I’m currently working on an All-In-One Project Manager (TypeScript, Apollo, NextJS, React, Chakra-UI)
+🔭 I’m currently working on an "I just want to code"-Project ([TypeScript](https://www.typescriptlang.org/), [Apollo](https://www.apollographql.com/), [NextJS](https://nextjs.org/), [ReactJS](https://reactjs.org/), [mantine](https://mantine.dev))
 
-🌱 I’m currently learning Kubernetes, Docker
+🌱 I’m currently learning Kubernetes, Docker (+ Docker Compose), [mantine](https://mantine.dev)
 
-🤔 I’m working with PHP, TypeScript, React, VueJS
+🤔 I’m working with PHP, TypeScript, ReactJS, VueJS, GraphQL, Prisma, MySQL, and many more.
 
 💬 Ask me about anything
 

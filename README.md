@@ -12,7 +12,7 @@
 
 💬 Ask me about anything
 
-📫 How to reach me: via Discord: OetziOfficial#5666 or [Twitter](https://twitter.com/oezguerisbert)
+📫 How to reach me: via Discord: ÖtziOfficial#5666 or [Twitter](https://twitter.com/oezguerisbert)
 
 😄 Pronouns: He/Him
 

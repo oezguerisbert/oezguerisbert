@@ -1,18 +1,16 @@
 ### Welcome to my GitHub-Page 👋
 
-![](https://github-readme-stats.vercel.app/api?username=oezguerisbert&show_icons=true&theme=dark)
+Publisher of [oezguerisbert.com](https://oezguerisbert.com), [Stacked.](https://github.com/itsstacked/stacked) & [taxi-kasse.de](https://taxi-kasse.de)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oezguerisbert&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=oezguerisbert&show_icons=true)
 
-🔭 I’m currently working on an "I Just Want To Study"-Project ([TypeScript](https://www.typescriptlang.org/), [BlitzJS](https://blitzjs.com/), [ReactJS](https://reactjs.org/), [Chakra-UI](https://chakra-ui.com))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oezguerisbert)
 
-🌱 I’m currently learning Kubernetes, Docker (+ Docker Compose)
+🔭 I’m currently working on an "I Just Want To Study"-Project ([TypeScript](https://www.typescriptlang.org/), [NextJs](https://nextjs.org/), [ReactJS](https://reactjs.org/), [Chakra-UI](https://chakra-ui.com))
 
 🤔 I’m working with PHP, TypeScript, ReactJS, Prisma, MySQL, Postgres and many more.
 
-💬 Ask me about anything
-
-📫 How to reach me: via Discord: ÖtziOfficial#5666 or [Twitter](https://twitter.com/oezguerisbert)
+💬 Ask me about anything, you can reach me at Discord: ÖtziOfficial#5666 or [Twitter](https://twitter.com/oezguerisbert).
 
 😄 Pronouns: He/Him
 

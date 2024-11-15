@@ -22,4 +22,4 @@ Publisher and Owner of:
 
 💬 Ask me about anything, you can reach me at Discord: `@oetzi.dev` or my [Socials](https://oezguerisbert.com/socials).
 
-**<sub>*Just an ordinary programmer with more than 15 years of knowledge and experience*</sub>**
+**<sub>*Just an ordinary programmer with more than 16+ years of knowledge and experience*</sub>**

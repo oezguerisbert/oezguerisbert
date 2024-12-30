@@ -4,8 +4,9 @@
 Publisher and Owner of:
 - [oezguerisbert.com](https://oezguerisbert.com)
 - [oetzi.dev](https://oetzi.dev)
-- [taxi-kasse.de](https://taxi-kasse.de) (doing a rewrite)
+- [taxi-kasse.de](https://taxi-kasse.de) (doing a rewrite, I don't know when I will launch it)
 - [ciftlikpdf.ch](https://ciftlikpdf.ch)
+- [plaaaner.com](https://plaaaner.com) (long time side project, I don't know when I will launch it)
 - (+more to come)
 
 
@@ -15,11 +16,13 @@ Publisher and Owner of:
 - [SolidJs](https://www.solidjs.com/) via [SolidStart](https://start.solidjs.com/getting-started/what-is-solidstart)
 - [SST](https://github.com/sst/sst)
 - [AWS](https://aws.amazon.com/)
-- ~~[NextJs](https://nextjs.org/) (with [ReactJS](https://reactjs.org/))~~ (I got bored of it)
-- [Astro](https://astro.build/)
-- [PostgreSQL](https://www.postgresql.org/)
+- ~~[NextJs](https://nextjs.org/) (with [ReactJS](https://reactjs.org/))~~ (I got bored of it & it's very slow)
+- [Astro](https://astro.build/) (GREAT for blogs and simple webpages)
+- [PostgreSQL](https://www.postgresql.org/) (also via [NeonDB](https://neon.tech))
 - [Drizzle-ORM](https://orm.drizzle.team/)
 
 💬 Ask me about anything, you can reach me at Discord: `@oetzi.dev` or my [Socials](https://oezguerisbert.com/socials).
 
 **<sub>*Just an ordinary programmer with more than 16+ years of knowledge and experience*</sub>**
+
+**<sub>*<sub>*I wish I could afford Cursor / GitHub Copilot / ChatGPT Pro (and other AIs)*</sub>*</sub>**

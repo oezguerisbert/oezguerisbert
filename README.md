@@ -2,11 +2,11 @@
 🔭 I’m currently looking for a job as a ***software dev***, preferably on web development.
 
 Publisher and Owner of:
-- [oezguerisbert.com](https://oezguerisbert.com)
-- [oetzi.dev](https://oetzi.dev)
-- [taxi-kasse.de](https://taxi-kasse.de) (doing a rewrite, I don't know when I will launch it)
-- [ciftlikpdf.ch](https://ciftlikpdf.ch)
-- [plaaaner.com](https://plaaaner.com) (long time side project, I don't know when I will launch it)
+- [oezguerisbert.com](https://oezguerisbert.com) ► [REPO](https://github.com/oetzilabs/oezguerisbert.com)
+- [oetzi.dev](https://oetzi.dev) ► [REPO](https://github.com/oetzilabs/oetzi.dev)
+- [taxi-kasse.de](https://taxi-kasse.de) (doing a rewrite, I don't know when I will launch it) ► [REPO](https://github.com/oetzilabs/taxi-kasse.de)
+- [ciftlikpdf.ch](https://ciftlikpdf.ch) ► [REPO](https://github.com/oetzilabs/ciftlikpdf.ch)
+- [plaaaner.com](https://plaaaner.com) (long time side project, I don't know when I will launch it) ► [REPO](https://github.com/oetzilabs/plaaaner.com)
 - (+more to come)
 
 

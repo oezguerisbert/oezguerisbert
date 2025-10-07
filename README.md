@@ -22,9 +22,6 @@ Paused projects: (Domains are not accessible, but you can visit the repo!)
 - [PostgreSQL](https://www.postgresql.org/) (also via [NeonDB](https://neon.tech))
 - [Drizzle-ORM](https://orm.drizzle.team/)
 
-~~⚡~~ Tools that I used, but no longer preffer:
-- [NextJs](https://nextjs.org/) (with [ReactJS](https://reactjs.org/))
-
 💬 Ask me about anything, you can reach me at Discord: `@oetzi.dev` or my [Socials](https://oezguerisbert.com/socials).
 
 **<sub>*I code since I am 12 years old, and I am currently 29.*</sub>**

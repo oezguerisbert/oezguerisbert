@@ -19,9 +19,9 @@ Paused projects: (Domains are not accessible, but you can visit the repo!)
 - [AWS](https://aws.amazon.com/)
 - [Cloudflare](https://cloudflare.com)
 - [Astro](https://astro.build/) (GREAT for blogs and simple webpages)
-- [PostgreSQL](https://www.postgresql.org/) (also via [NeonDB](https://neon.tech))
+- [PostgreSQL](https://www.postgresql.org/)
 - [Drizzle-ORM](https://orm.drizzle.team/)
 
 💬 Ask me about anything, you can reach me at Discord: `@oetzi.dev` or my [Socials](https://oezguerisbert.com/socials).
 
-**<sub>*I code since I am 12 years old, and I am currently 29.*</sub>**
+**<sub>*I code since I am 12 years old, and I am currently 30.*</sub>**
